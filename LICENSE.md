@@ -12,11 +12,8 @@ For a breif explanation of the conditions of the utilized Creative Commons licen
 >
 > Under the following terms:
 > - **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
->
 > - **NonCommercial** — You may not use the material for commercial purposes.
->
 > - **NoDerivatives** — If you remix, transform, or build upon the material, you may not distribute the modified material.
->
 > - **No additional restrictions** — You may not apply legal terms or technological measures that legally restrict others from doing anything the license permits.
 
 "*Code Monkeys*" may be abbreviated as "CM" within this document, they are synonymous.
@@ -43,12 +40,12 @@ All of your work utilizing *Code Monkeys* branding must give proper attribution,
 - Your work and digital assets **should not** look similar to the Code Monkeys logo.
 - Your work and digital assets **should not** mislead the end user or your target audience into thinking that there is an affiliation or partnership with Code Monkeys.
 
-===
+---
 
 **All of the above terms are subject to change at any time, and any changes will be in effect without notice.**
 Please contact [support@spikespaz.com](mailto:support@spikespaz.com) if you have any questions, or ask on the [Discord Server](https://discord.me/cm). You may request partnership or permission to express affiliation, which may explicitly nullify specific terms of this license for your work.
 
-===
+---
 
 [![Creative Commons License](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)](https://i.creativecommons.org/l/by-nc-nd/4.0/88x31.png)
 
