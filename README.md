@@ -14,3 +14,5 @@ information.
 
 The font used in these logos is [Saucer
 BB](http://www.fontspace.com/blambot/saucer-bb)
+
+### Code Monkeys Blue: `#003345`
