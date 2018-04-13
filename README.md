@@ -12,7 +12,12 @@ the [Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND
 Please see [LICENSE.md](LICENSE.md) for all of the extended licensing
 information.
 
-The font used in these logos is [Saucer
-BB](http://www.fontspace.com/blambot/saucer-bb)
+The font used for braces is [Lato](https://fonts.google.com/specimen/Lato)
+The font used for "Code Monkeys" is [Dosis](https://fonts.google.com/specimen/Dosis)
 
-### Code Monkeys Blue: `#003345`
+The font used in previous logos is [Saucer BB](http://www.fontspace.com/blambot/saucer-bb)
+
+### Background: `#7688C4`
+### Foreground 1: `#FFFFFF`
+### Foreground 2: `#CCD6ED`
+### Shadow: `#5770AD`
