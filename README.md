@@ -1,4 +1,4 @@
-[Code Monkeys Branding](https://github.com/CodeMonkeys-Community/branding)
+[Code Monkeys Branding](https://github.com/CodeMonkeys-Community/branding?)
 ==========================================================================
 
 Official branding assets of Code Monkeys.
