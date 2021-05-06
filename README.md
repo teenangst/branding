@@ -17,7 +17,6 @@ The font used for "Code Monkeys" is [Dosis](https://fonts.google.com/specimen/Do
 
 The font used in previous logos is [Saucer BB](http://www.fontspace.com/blambot/saucer-bb)
 
-### Background: `#7688C4`
+### Background: `#7289DA`
 ### Foreground 1: `#FFFFFF`
-### Foreground 2: `#CCD6ED`
-### Shadow: `#5770AD`
+### Shadow: `#4E5D94`
